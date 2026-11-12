@@ -1,0 +1,182 @@
+{
+  "Version": "1.0",
+  "Apps": [
+    "Clipchamp.Clipchamp",
+    "Microsoft.3DBuilder",
+    "Microsoft.549981C3F5F10",
+    "Microsoft.BingFinance",
+    "Microsoft.BingFoodAndDrink",
+    "Microsoft.BingHealthAndFitness",
+    "Microsoft.BingNews",
+    "Microsoft.BingSports",
+    "Microsoft.BingTranslator",
+    "Microsoft.BingTravel",
+    "Microsoft.BingWeather",
+    "XP9CXNGPPJ97XX",
+    "Microsoft.Windows.AIHub",
+    "Microsoft.PCManager",
+    "Microsoft.MicrosoftPCManager",
+    "Microsoft.Getstarted",
+    "Microsoft.Messaging",
+    "Microsoft.Microsoft3DViewer",
+    "Microsoft.MicrosoftJournal",
+    "Microsoft.MicrosoftOfficeHub",
+    "Microsoft.MicrosoftPowerBIForWindows",
+    "Microsoft.MicrosoftSolitaireCollection",
+    "Microsoft.MixedReality.Portal",
+    "Microsoft.NetworkSpeedTest",
+    "Microsoft.Office.OneNote",
+    "Microsoft.Office.Sway",
+    "Microsoft.OneConnect",
+    "Microsoft.Print3D",
+    "Microsoft.PowerAutomateDesktop",
+    "Microsoft.SkypeApp",
+    "Microsoft.Todos",
+    "Microsoft.Windows.DevHome",
+    "Microsoft.WindowsAlarms",
+    "Microsoft.WindowsFeedbackHub",
+    "Microsoft.WindowsMaps",
+    "Microsoft.WindowsSoundRecorder",
+    "Microsoft.XboxApp",
+    "Microsoft.ZuneVideo",
+    "MicrosoftCorporationII.MicrosoftFamily",
+    "ACGMediaPlayer",
+    "ActiproSoftwareLLC",
+    "AdobeSystemsIncorporated.AdobePhotoshopExpress",
+    "Amazon.com.Amazon",
+    "AmazonVideo.PrimeVideo",
+    "Asphalt8Airborne",
+    "AutodeskSketchBook",
+    "CaesarsSlotsFreeCasino",
+    "COOKINGFEVER",
+    "CyberLinkMediaSuiteEssentials",
+    "DisneyMagicKingdoms",
+    "Disney.37853FC22B2CE",
+    "DrawboardPDF",
+    "Duolingo-LearnLanguagesforFree",
+    "FACEBOOK.FACEBOOK",
+    "FarmVille2CountryEscape",
+    "Flipboard",
+    "HiddenCity",
+    "HULULLC.HULUPLUS",
+    "iHeartRadio",
+    "Facebook.Instagram",
+    "king.com.BubbleWitch3Saga",
+    "king.com.CandyCrushSaga",
+    "king.com.CandyCrushSodaSaga",
+    "LinkedInforWindows",
+    "MarchofEmpires",
+    "4DF9E0F8.Netflix",
+    "NYTCrossword",
+    "OneCalendar",
+    "PandoraMediaInc",
+    "PhototasticCollage",
+    "PicsArt-PhotoStudio",
+    "PolarrPhotoEditorAcademicEdition",
+    "flaregamesGmbH.RoyalRevolt",
+    "Sidia.LiveWallpaper",
+    "SlingTV",
+    "SpotifyAB.SpotifyMusic",
+    "BytedancePte.Ltd.TikTok",
+    "TuneInRadio",
+    "WinZipUniversal",
+    "Microsoft.People",
+    "Microsoft.windowscommunicationsapps"
+  ],
+  "Tweaks": [
+    {
+      "Name": "DisableCopilot",
+      "Value": true
+    },
+    {
+      "Name": "DisableRecall",
+      "Value": true
+    },
+    {
+      "Name": "DisableClickToDo",
+      "Value": true
+    },
+    {
+      "Name": "DisableAISvcAutoStart",
+      "Value": true
+    },
+    {
+      "Name": "DisableEdgeAI",
+      "Value": true
+    },
+    {
+      "Name": "DisableChromeAI",
+      "Value": true
+    },
+    {
+      "Name": "DisablePaintAI",
+      "Value": true
+    },
+    {
+      "Name": "DisableNotepadAI",
+      "Value": true
+    },
+    {
+      "Name": "DisableSuggestions",
+      "Value": true
+    },
+    {
+      "Name": "DisableLockscreenTips",
+      "Value": true
+    },
+    {
+      "Name": "DisableEdgeAds",
+      "Value": true
+    },
+    {
+      "Name": "DisableSettings365Ads",
+      "Value": true
+    },
+    {
+      "Name": "DisableBing",
+      "Value": true
+    },
+    {
+      "Name": "DisableStoreSearchSuggestions",
+      "Value": true
+    },
+    {
+      "Name": "DisableStartRecommended",
+      "Value": true
+    },
+    {
+      "Name": "DisableWidgets",
+      "Value": true
+    },
+    {
+      "Name": "HideChat",
+      "Value": true
+    },
+    {
+      "Name": "DisableDVR",
+      "Value": true
+    }
+  ],
+  "Deployment": [
+    {
+      "Name": "UserSelectionIndex",
+      "Value": 0
+    },
+    {
+      "Name": "AppRemovalScopeIndex",
+      "Value": 0
+    },
+    {
+      "Name": "CreateRestorePoint",
+      "Value": true
+    },
+    {
+      "Name": "SkipRegistryBackup",
+      "Value": false
+    },
+    {
+      "Name": "RestartExplorer",
+      "Value": true
+    }
+  ]
+}
